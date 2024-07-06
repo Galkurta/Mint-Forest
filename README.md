@@ -20,13 +20,13 @@ npm install
 ## Configuration
 
 1. Create a `accounts.json` file in the root directory of the project.
-```json
+```bash
 nano accounts.json
 ```
 
 2. Add your MintChain API tokens to the `accounts.json` file in the following format:
 
-```json
+```bash
 [
   "Bearer xxx",
   "Bearer xxx",
