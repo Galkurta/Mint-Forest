@@ -13,7 +13,7 @@ git clone https://github.com/Galkurta/Mint-Forest.git
 2. Install dependencies:
 
 ```bash
-cd mint-forest-bot
+cd Mint-Forest
 npm install
 ```
 
